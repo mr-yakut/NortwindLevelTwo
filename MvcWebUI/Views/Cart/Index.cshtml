@@ -1,0 +1,46 @@
+﻿@model CartListViewModel
+@{
+    ViewBag.Title = "Sepet";
+}
+
+<h2>Sepetiniz</h2>
+
+@if (Model.Cart.CartLines.Count == 0)
+{
+    <h1 class="badge badge-danger">Sepetiniz boş</h1>
+
+}
+else
+{
+    <table class="table table-responsive">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Ürün Adı</th>
+                <th>Boyut</th>
+                <th>Fiyat</th>
+                <th>Stok Adet</th>
+                <th>Talep Adet</th>
+            </tr>
+        </thead>
+        @foreach (var cartLine in Model.Cart.CartLines)
+        {
+            <tbody class="tabble tabble-responsive">
+                <tr>
+                    <td>@cartLine.Product.ProductId</td>
+                    <td>@cartLine.Product.ProductName</td>
+                    <td>@cartLine.Product.QuantityPerUnit</td>
+                    <td>@cartLine.Product.UnitPrice</td>
+                    <td>@cartLine.Product.UnitsInStock</td>
+                    <td>@cartLine.Quantity</td>
+                    <td>
+                        <a class="btn btn-sm btn-danger" asp-controller="cart"
+                   asp-action="RemoveFromCart" asp-route-productId="@cartLine.Product.ProductId">Sil</a>
+                    </td>
+                </tr>
+            </tbody>
+        }
+
+    </table>
+    <input type="submit" value="Sepeti Onayla" class="btn btn-success btn-group-sm" />
+}

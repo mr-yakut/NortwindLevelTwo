@@ -1,0 +1,10 @@
+D:\repos\NorthwindLevelTwo\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\repos\NorthwindLevelTwo\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\repos\NorthwindLevelTwo\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\repos\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\repos\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\repos\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\repos\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\repos\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\repos\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.pdb
