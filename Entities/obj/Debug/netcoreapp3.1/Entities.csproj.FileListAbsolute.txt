@@ -11,3 +11,29 @@ D:\repos\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.Core
 D:\repos\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
 D:\repos\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 D:\repos\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+E:\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+E:\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+E:\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Core.dll
+E:\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+E:\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+E:\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+E:\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+E:\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+E:\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+E:\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+E:\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

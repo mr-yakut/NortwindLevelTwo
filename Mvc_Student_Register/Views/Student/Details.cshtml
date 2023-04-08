@@ -1,0 +1,58 @@
+﻿@model Mvc_Student_Register.Models.Table
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Table</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.StdName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StdName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StdSurname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StdSurname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StdMail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StdMail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StdPhoto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StdPhoto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StdAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StdAddress)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.StdId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

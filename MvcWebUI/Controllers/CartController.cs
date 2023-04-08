@@ -22,7 +22,7 @@ namespace MvcWebUI.Controllers
         }
         public IActionResult AddToCart(int productId)
         {
-            //ürünü çek
+            //pull the product
             Product product = _productService.GetById(productId);
 
             var cart = _cartSessionHelper.GetCart(key: "cart");
@@ -31,7 +31,7 @@ namespace MvcWebUI.Controllers
 
             _cartSessionHelper.SetCart(key: "cart", cart);
 
-            TempData.Add("message",product.ProductName + " ürünü sepete eklendi!");
+            TempData.Add("message",product.ProductName + " the product has been added to the cart!");
 
             return RedirectToAction("Index", controllerName: "Product");
         }
@@ -46,7 +46,7 @@ namespace MvcWebUI.Controllers
 
         public IActionResult RemoveFromCart(int productId)
         {
-            //ürünü çek
+            //pull the product
             Product product = _productService.GetById(productId);
 
             var cart = _cartSessionHelper.GetCart(key: "cart");
@@ -55,7 +55,7 @@ namespace MvcWebUI.Controllers
 
             _cartSessionHelper.SetCart(key: "cart", cart);
 
-            TempData.Add("message", product.ProductName + " ürünü sepettten kaldırıldı!");
+            TempData.Add("message", product.ProductName + " the product has been removed to the cart!");
 
             return RedirectToAction("Index", controllerName: "Cart");
         }
@@ -76,7 +76,7 @@ namespace MvcWebUI.Controllers
             {
                 return View();
             }
-            TempData.Add("message","Siparişiniz başarıyla tamamlandı!");
+            TempData.Add("message", "Your order has been successfully completed!");
             _cartSessionHelper.Clear();
             return RedirectToAction("Index", controllerName: "Cart");
         }

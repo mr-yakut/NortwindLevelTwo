@@ -1,0 +1,48 @@
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Pack.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+E:\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+E:\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+E:\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+E:\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+E:\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+E:\NorthwindLevelTwo\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Pack.cache
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebAPI.props
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebAPI.props
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+E:\NorthwindLevelTwo\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache

@@ -2,34 +2,34 @@
 
 <form asp-controller="Cart" asp-action="Complete" method="post">
     <div class="form-group">
-        <label asp-for="ShippingDetail.FirstName">Ad</label>
-        <input asp-for="ShippingDetail.FirstName" class="form-control" placeholder="Müşteri adı" />
+        <label asp-for="ShippingDetail.FirstName">Name</label>
+        <input asp-for="ShippingDetail.FirstName" class="form-control" placeholder="Costumer Name" />
         <span asp-validation-for="ShippingDetail.FirstName"></span>
     </div>
     <div class="form-group">
-        <label asp-for="ShippingDetail.LastName">Soyad</label>
-        <input asp-for="ShippingDetail.LastName" class="form-control" placeholder="Müşteri soyadı" />
+        <label asp-for="ShippingDetail.LastName">Surname</label>
+        <input asp-for="ShippingDetail.LastName" class="form-control" placeholder="Costumer Surname" />
         <span asp-validation-for="ShippingDetail.LastName"></span>
     </div>
     <div class="form-group">
-        <label asp-for="ShippingDetail.Email">Mail adres</label>
-        <input asp-for="ShippingDetail.Email" class="form-control" placeholder="Müşteri maili" />
+        <label asp-for="ShippingDetail.Email">Mail adress</label>
+        <input asp-for="ShippingDetail.Email" class="form-control" placeholder="Costumer e-mail" />
         <span asp-validation-for="ShippingDetail.Email"></span>
     </div>
     <div class="form-group">
-        <label asp-for="ShippingDetail.Age">Yaş</label>
-        <input asp-for="ShippingDetail.Age" class="form-control" placeholder="Müşteri yaşı" />
+        <label asp-for="ShippingDetail.Age">Age</label>
+        <input asp-for="ShippingDetail.Age" class="form-control" placeholder="Costumer Age" />
         <span asp-validation-for="ShippingDetail.Age"></span>
     </div>
     <div class="form-group">
-        <label asp-for="ShippingDetail.City">Şehir</label>
-        <input asp-for="ShippingDetail.City" class="form-control" placeholder="Şehir" />
+        <label asp-for="ShippingDetail.City">City</label>
+        <input asp-for="ShippingDetail.City" class="form-control" placeholder="City" />
         <span asp-validation-for="ShippingDetail.City"></span>
     </div>
     <div class="form-group">
-        <label asp-for="ShippingDetail.Adress">Adres</label>
-        <input asp-for="ShippingDetail.Adress" class="form-control" placeholder="Adres" />
+        <label asp-for="ShippingDetail.Adress">Adress</label>
+        <input asp-for="ShippingDetail.Adress" class="form-control" placeholder="Adress" />
         <span asp-validation-for="ShippingDetail.Adress"></span>
     </div>
-    <input type="submit" value="Kaydet" class="btn btn-success btn-group-sm" />
+    <input type="submit" value="Save" class="btn btn-success btn-group-sm" />
 </form>

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sfIINuF2uUOwtjeSes4JyitzFpr1DNLtOL0p2a9W5ln40gp+/h2aeKdaezOp80BkHhxqLFia8SfoU3LTMH4aPg==",
+  "dgSpecHash": "xwKArt4WzuLk9/+iwHX1MW+tCLtBMGaQTb4ywl+hQOOayjGLr0facBrZhM4RxzJ6yUbK+itYJfHpATq//sIWdg==",
   "success": true,
-  "projectFilePath": "D:\\repos\\NorthwindLevelTwo\\WebAPI\\WebAPI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\NorthwindLevelTwo\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yakut\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yakut\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yakut\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Yakut\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

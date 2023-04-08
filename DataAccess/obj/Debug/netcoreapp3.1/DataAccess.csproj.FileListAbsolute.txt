@@ -20,3 +20,40 @@ D:\repos\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\libsnappy64.so
 D:\repos\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\libzstd.so
 D:\repos\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\libsnappy64.dylib
 D:\repos\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\libzstd.dylib
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\libzstd.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\snappy32.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\snappy64.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\libsnappy64.so
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\libzstd.so
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\libsnappy64.dylib
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\libzstd.dylib
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+E:\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+E:\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+E:\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+E:\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+E:\NorthwindLevelTwo\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+E:\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+E:\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+E:\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+E:\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+E:\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+E:\NorthwindLevelTwo\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

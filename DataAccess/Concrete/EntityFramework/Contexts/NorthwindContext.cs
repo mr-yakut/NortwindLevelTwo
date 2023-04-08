@@ -12,7 +12,7 @@ namespace DataAccess.Concrete.EntityFramework.Contexts
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer
-                (connectionString: @"Server=(localdb)\mssqllocaldb;initial catalog=northwind;integrated security=true");
+                (connectionString: @"Server=DESKTOP-4E0IHUB\SQLEXPRESS;Database=Northwind;Trusted_Connection=True");
         }
 
         public DbSet<Product> Products{ get; set; }
@@ -20,3 +20,6 @@ namespace DataAccess.Concrete.EntityFramework.Contexts
 
     }
 }
+
+
+     

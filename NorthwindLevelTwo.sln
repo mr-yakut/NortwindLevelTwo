@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcWebUI", "MvcWebUI\MvcWebUI.csproj", "{F776FE95-764B-407B-A89A-FD4DE1852546}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc_Student_RegisterWebUI", "Mvc_Student_Register\Mvc_Student_RegisterWebUI.csproj", "{46A61286-2297-43BD-8349-BD22E165613D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F776FE95-764B-407B-A89A-FD4DE1852546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F776FE95-764B-407B-A89A-FD4DE1852546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F776FE95-764B-407B-A89A-FD4DE1852546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A61286-2297-43BD-8349-BD22E165613D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A61286-2297-43BD-8349-BD22E165613D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A61286-2297-43BD-8349-BD22E165613D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A61286-2297-43BD-8349-BD22E165613D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

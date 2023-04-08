@@ -8,3 +8,23 @@ D:\repos\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
 D:\repos\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
 D:\repos\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.dll
 D:\repos\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.pdb
+E:\NorthwindLevelTwo\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+E:\NorthwindLevelTwo\Core\bin\Debug\netcoreapp3.1\Core.dll
+E:\NorthwindLevelTwo\Core\bin\Debug\netcoreapp3.1\Core.pdb
+E:\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+E:\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+E:\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+E:\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+E:\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.dll
+E:\NorthwindLevelTwo\Core\obj\Debug\netcoreapp3.1\Core.pdb

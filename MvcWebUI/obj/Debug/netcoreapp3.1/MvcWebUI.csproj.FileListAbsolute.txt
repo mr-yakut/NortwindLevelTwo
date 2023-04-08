@@ -100,3 +100,207 @@ D:\repos\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
 D:\repos\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
 D:\repos\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
 D:\repos\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\libzstd.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\snappy32.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\snappy64.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\libsnappy64.so
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\libzstd.so
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\libsnappy64.dylib
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\libzstd.dylib
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.exe
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.deps.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.runtimeconfig.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.runtimeconfig.dev.json
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.Views.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.Views.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.csproj.AssemblyReference.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.AssemblyInfoInputs.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.AssemblyInfo.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.RazorAssemblyInfo.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.RazorAssemblyInfo.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\staticwebassets\MvcWebUI.StaticWebAssets.Manifest.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.TagHelpers.input.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.TagHelpers.output.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.RazorCoreGenerate.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Complete.cshtml.g.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.RazorTargetAssemblyInfo.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.RazorTargetAssemblyInfo.cs
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.Views.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.csproj.CopyComplete
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.dll
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.pdb
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.genruntimeconfig.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\staticwebassets\MvcWebUI.StaticWebAssets.Pack.cache
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MvcWebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MvcWebUI.props
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MvcWebUI.props
+C:\Users\memoa\Downloads\yerel disk d\E-Ticaret Site Demo\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MvcWebUI.props
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.exe
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.deps.json
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.runtimeconfig.json
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.runtimeconfig.dev.json
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.pdb
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.Views.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MvcWebUI.Views.pdb
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\AWSSDK.SecurityToken.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Snappier.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Business.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Core.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Entities.dll
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Business.pdb
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Core.pdb
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\NorthwindLevelTwo\MvcWebUI\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.csproj.AssemblyReference.cache
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.AssemblyInfoInputs.cache
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.AssemblyInfo.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.csproj.CoreCompileInputs.cache
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.MvcApplicationPartsAssemblyInfo.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.MvcApplicationPartsAssemblyInfo.cache
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.RazorAssemblyInfo.cache
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.RazorAssemblyInfo.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\staticwebassets\MvcWebUI.StaticWebAssets.Manifest.cache
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\staticwebassets\MvcWebUI.StaticWebAssets.Pack.cache
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MvcWebUI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MvcWebUI.props
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MvcWebUI.props
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MvcWebUI.props
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.TagHelpers.input.cache
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.TagHelpers.output.cache
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.RazorCoreGenerate.cache
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Complete.cshtml.g.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.RazorTargetAssemblyInfo.cache
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.RazorTargetAssemblyInfo.cs
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.Views.pdb
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.csproj.CopyComplete
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.dll
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.pdb
+E:\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.genruntimeconfig.cache

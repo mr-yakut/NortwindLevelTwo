@@ -1,13 +1,13 @@
 ﻿@model CartListViewModel
 @{
-    ViewBag.Title = "Sepet";
+    ViewBag.Title = "Basket";
 }
 
-<h2>Sepetiniz</h2>
+<h2>Your Cart</h2>
 
 @if (Model.Cart.CartLines.Count == 0)
 {
-    <h1 class="badge badge-danger">Sepetiniz boş</h1>
+    <h1 class="badge badge-danger">Your bag is empty</h1>
 
 }
 else
@@ -16,11 +16,11 @@ else
         <thead>
             <tr>
                 <th>Id</th>
-                <th>Ürün Adı</th>
-                <th>Boyut</th>
-                <th>Fiyat</th>
-                <th>Stok Adet</th>
-                <th>Talep Adet</th>
+                <th>Product Name</th>
+                <th>Quantity Per Unit</th>
+                <th>Price</th>
+                <th>Stock</th>
+                <th>Quantity</th>
             </tr>
         </thead>
         @foreach (var cartLine in Model.Cart.CartLines)
@@ -35,12 +35,12 @@ else
                     <td>@cartLine.Quantity</td>
                     <td>
                         <a class="btn btn-sm btn-danger" asp-controller="cart"
-                   asp-action="RemoveFromCart" asp-route-productId="@cartLine.Product.ProductId">Sil</a>
+                   asp-action="RemoveFromCart" asp-route-productId="@cartLine.Product.ProductId">Remove</a>
                     </td>
                 </tr>
             </tbody>
         }
 
     </table>
-    <input type="submit" value="Sepeti Onayla" class="btn btn-success btn-group-sm" />
+    <input type="submit" value="Confirm The Bag" class="btn btn-success btn-group-sm" />
 }
