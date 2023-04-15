@@ -1,4 +1,4 @@
-﻿using Entities.Concrete;
+﻿ using Entities.Concrete;
 using Microsoft.EntityFrameworkCore;
 using MongoDB.Driver.Core.Configuration;
 using System;
@@ -12,10 +12,9 @@ namespace DataAccess.Concrete.EntityFramework.Contexts
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer
-                (connectionString: @"Server=DESKTOP-4E0IHUB\SQLEXPRESS;Database=Northwind;Trusted_Connection=True");
+            (connectionString: @"Server=DESKTOP-4E0IHUB\SQLEXPRESS;Database=Northwind;Trusted_Connection=True");
         }
-
-        public DbSet<Product> Products{ get; set; }
+        public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
 
     }

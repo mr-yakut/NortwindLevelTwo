@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nwU4IXA+2ZlnSVgm8D+8LdSu7EsLjD+gyubjSdlMrwu5dGtBIEuZ6uty58H7om1aUwq1yzlQ+gZxen0EsBH0bA==",
+  "dgSpecHash": "CZDqT40TomaNHhjT0y+QKgXYzBC/MxdyX2l9v2Er1BmIGua19hZUAZft5+BsIYO3BuzDUt/jUURttAE5fDxHQQ==",
   "success": true,
   "projectFilePath": "E:\\NorthwindLevelTwo\\Business\\Business.csproj",
   "expectedPackageFiles": [
@@ -99,10 +99,7 @@
     "C:\\Users\\Yakut\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Yakut\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Yakut\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Yakut\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512",
-    "C:\\Users\\Yakut\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Yakut\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Yakut\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\Yakut\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
   ],
   "logs": []
 }
